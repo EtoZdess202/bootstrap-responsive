@@ -1,0 +1,149 @@
+.button1{
+    border-radius: 5px;
+    background: #1B75BB;
+    padding: 15px 30px;
+
+}
+body{
+    background-image: url(./imgs/zOY7ROKMih\ 1.png);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: top;
+    
+}
+.header-text{
+    margin-left: 200px;
+    font-size: 20px;
+
+}
+.chek{
+    background-image: url(./imgs/Rectangle\ 38.png);
+    max-width: 790px;
+    max-height: 110px ;
+    background-repeat: no-repeat;
+    margin-top: 110px;
+}
+.imgs{
+    margin-top: 150px;
+}
+ .title-img .img-1{
+    margin-left:200px;
+    z-index: 3;
+}
+.img-2{
+    z-index: 0;
+}
+.title-text{
+    margin-top:240px;
+    text-align: center;
+}
+.news{
+    margin-top: 250px;
+}
+.imgs1{
+    margin-top: 100px;
+}
+.galery{
+    margin-top: 200px;
+}
+.galery-box{
+    background-image: url(./imgs/Rectangle\ 15\ \(1\).png);
+    border: 15px solid white;
+height: 337px;
+flex-shrink: 0;
+background-size: cover; 
+}
+ .galery-box .box-2{
+    border-radius: 10px;
+background: rgba(226, 226, 226, 0.40);
+backdrop-filter: blur(5px);
+width: 231px;
+height: 126px;
+
+}
+.galery-box1{
+    background-image: url(./imgs/Rectangle\ 17\ \(1\).png);
+    background-size: cover;
+    border: 15px solid white;
+height: 337px;
+flex-shrink: 0;
+}
+.galery-box1 .box-3{
+    border-radius: 10px;
+background: rgba(226, 226, 226, 0.40);
+backdrop-filter: blur(5px);
+width: 231px;
+height: 126px;
+}
+.galery-box2{
+    background-image: url(./imgs/Rectangle\ 19\ \(2\).png);
+    background-size: cover;
+    border: 15px solid white;
+height: 337px;
+;
+}
+
+.galery-box2 .box-4{
+    border-radius: 10px;
+background: rgba(226, 226, 226, 0.40);
+backdrop-filter: blur(5px);
+width: 231px;
+height: 126px;
+
+}
+.galery-box5{
+background-image: url(./imgs/Rectangle\ 22.png);
+background-size: cover;
+border: 15px solid white;
+height: 337px;
+}
+.galery-box5 .box-7{
+    border-radius: 10px;
+    background: rgba(226, 226, 226, 0.40);
+    backdrop-filter: blur(5px);
+    width: 231px;
+    height: 126px;
+}
+.galery-box7 .box-5{
+    border-radius: 10px;
+    background: rgba(226, 226, 226, 0.40);
+    backdrop-filter: blur(5px);
+    width: 231px;
+    height: 126px;
+}
+.galery-box7{
+    background-image: url(./imgs/Rectangle\ 21.png);
+    background-size: cover;
+    border: 15px solid white;
+    height: 337px;
+}
+.button3{
+    margin-left: 900px;
+}
+.people{
+    margin-top: 130px;
+}
+.people2{
+    margin-top: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:992px){
+.chek{
+    display: none;
+}
+}
+    
